@@ -1,4 +1,4 @@
-# Hydejack Starter Kit
+# Isabel Mack Website Assignment 2022
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
