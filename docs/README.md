@@ -7,6 +7,7 @@ hide_description: false
 sitemap: false
 permalink: /docs/
 ---
+## FOCUS AREA 2.6 (Information Communication and Technology
 
 The Teacher describes how information and communication technology is a tool that can transform the delivery of learning and content within the classroom. The introduction of and the use of ICT can enable teachers to assign students tasks, break down focus questions and use multimodal texts to understand social issues and ideas within an everchanging world. (AITSL, 2021).
 Students are exposed to several different multimodal texts and various prose within the English Classroom. Assigning students to analyze and develop their multimodal texts such as newspaper articles, blogs and visual debates can be helpful to assess a student’s punctuation, sentence structure, and tone. (Fazzi & Cuestas, 2020). In a world of globalization and advanced technological changes, teachers need to adapt and lead a paradigm shift in the teaching-learning -process. More than ever, students are exposed to current affairs and social reforms that are now delivered on a social media platform. Within the premise of the classroom, it is therefore essential for the Teacher to acknowledge students’ prior knowledge and facilitate inferential thinking in analyzing social ideas and issues within our world.
