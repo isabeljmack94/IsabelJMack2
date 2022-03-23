@@ -17,6 +17,8 @@ On this webpage, I have ICT resources and handouts useful for Educators while si
 
 IMAGES:
 
+[![Image1](\assets\img\3.5_image_1.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+
 image: /assets/img/blog/hydejack-9.jpg
 
 ICT Resources for the unit: Multi-Media Learning in the Classroom (Assessment One): 
