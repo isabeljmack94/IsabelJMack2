@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:              Information Communication and Technology in Education
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Isabel> <Mack>
+  email:               <IsabelJMack94@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -53,7 +53,7 @@ menu:
   - title:             FOCUS AREA 2.6 (Information Communication and Technology)
     url:               /docs/
   - title:             FOCUS AREA 3.5 (Select and Use Resources) 
-    url:               /example/
+    url:               /3.5/
   - title:             FOCUS AREA 4.5 (Use ICT Safely, responsibly and ethically) 
     url:               /about/
 
@@ -68,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
