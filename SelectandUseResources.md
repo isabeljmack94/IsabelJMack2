@@ -16,6 +16,7 @@ On this webpage, I have ICT resources and handouts useful for Educators while si
 
 
 ![Image1](\assets\img\3.5_image_1.png){:.lead width="884" height="632" loading="lazy"}
+![Image2](\assets\img\3.5_image_2.png){:.lead width="884" height="632" loading="lazy"}
 
 image: /assets/img/blog/hydejack-9.jpg
 
