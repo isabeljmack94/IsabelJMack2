@@ -18,7 +18,7 @@ Students are exposed to several different multimodal texts and various prose wit
 
 
 
-# Blooms Taxonomy and ICT Learning in the English Classroom.
+## Blooms Taxonomy and ICT Learning in the English Classroom.
 
 Bloom’s Taxonomy compliments ICT use within the classroom, particularly in studying multimodal texts. The Blooms Taxonomy Model exercises students’ Higher Order Thinking Skills and Lower Order Thinking Skills. (Husain, 2021)
  
