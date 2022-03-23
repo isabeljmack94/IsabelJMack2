@@ -17,6 +17,7 @@ On this webpage, I have ICT resources and handouts useful for Educators while si
 
 IMAGES:
 
+image: /assets/img/blog/hydejack-9.jpg
 
 ICT Resources for the unit: Multi-Media Learning in the Classroom (Assessment One): 
 •	Online Newspaper Article Outline and Template for Students: 
