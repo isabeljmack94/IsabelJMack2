@@ -5,7 +5,7 @@ description: >
 How does ICT Improve student’s literacy skills within the English Classroom?
 hide_description: false
 sitemap: false
-permalink: /docs/SelectandUseResources
+permalink: /SelectandUseResources/
 ---
 ## FOCUS AREA 3.5 (Select and Use Resources)
 
