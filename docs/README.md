@@ -26,9 +26,10 @@ Students can CREATE their Media Constructs within the English Classroom. Teacher
  
 Once a student has understood how language features are used to construct a multi-media text, students have an opportunity to APPLY language features to the prescribed topic question and issue.
 
+<br>
+<br>
 
-
-![Image2](\assets\img\2.6_image.png){:.lead width="884" height="632" loading="lazy"}
+![Image2](\assets\img\2.6_image.png){:.lead width="600" height="400" loading="lazy"}
 
 
 (Churches, 2008)
