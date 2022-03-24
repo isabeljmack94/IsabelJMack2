@@ -29,7 +29,7 @@ Once a student has understood how language features are used to construct a mult
 <br>
 <br>
 
-![Image2](\assets\img\2.6_image.png){:.lead width="600" height="400" loading="lazy"}
+![Image2](\assets\img\2.6_image.png){:.lead width="500" height="300" loading="lazy"}
 
 
 (Churches, 2008)
