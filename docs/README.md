@@ -28,3 +28,7 @@ Once a student has understood how language features are used to construct a mult
 
 
 
+![Image2](\assets\img\2.6_image.png){:.lead width="884" height="632" loading="lazy"}
+
+
+(Churches, 2008)

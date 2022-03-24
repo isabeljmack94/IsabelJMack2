@@ -26,7 +26,7 @@ On this webpage, I have ICT resources and handouts useful for Educators while si
 <br>
 <br>
 
-#ICT Resources for the unit: Multi-Media Learning in the Classroom (Assessment One): 
+##ICT Resources for the unit: Multi-Media Learning in the Classroom (Assessment One): 
 
 
 •	Online Newspaper Article Outline and Template for Students: 
@@ -37,7 +37,7 @@ On this webpage, I have ICT resources and handouts useful for Educators while si
 ![Image3](\assets\img\3.5_image_3.png){:.lead width="884" height="632" loading="lazy"}
 <br>
 <br>
-•	Examples of Q&A Discussions similar to the chosen topic of gender bias in the workplace: 
+•	Examples of Q&A Discussions similar to the chosen topic of gender bias in the workplace relevant to Assessment One: 
 <br>
 <br>
 <br>
