@@ -7,7 +7,7 @@ hide_description: false
 sitemap: false
 permalink: /docs/
 ---
-## FOCUS AREA 2.6 (Information Communication and Technology)
+## FOCUS AREA 2.6 (Information Communication and Technology) Test
 
 
 <em> How does ICT Improve student’s literacy skills within the English Classroom?</em>
